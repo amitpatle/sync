@@ -1,0 +1,7 @@
+# Replace @YOUR-ORG/maintainers with a real team. Pair with branch protection:
+# "Require review from Code Owners" + required status checks (CI, CodeQL).
+*                      @YOUR-ORG/maintainers
+/.github/              @YOUR-ORG/maintainers
+/src/ghgl_sync/security/ @YOUR-ORG/maintainers
+/src/ghgl_sync/db/     @YOUR-ORG/maintainers
+requirements.lock      @YOUR-ORG/maintainers
