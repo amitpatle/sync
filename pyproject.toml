@@ -27,7 +27,7 @@ dev = [
   "pre-commit>=3.8",
   "pip-audit>=2.7",
   "detect-secrets>=1.5,<2",
-  "cyclonedx-bom>=4,<8",
+  "cyclonedx-bom>=4,<9",
 ]
 
 [project.scripts]
